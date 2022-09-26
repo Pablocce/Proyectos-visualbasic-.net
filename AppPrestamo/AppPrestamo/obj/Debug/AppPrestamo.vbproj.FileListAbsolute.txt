@@ -1,0 +1,12 @@
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\bin\Debug\AppPrestamo.exe.config
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\bin\Debug\AppPrestamo.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\bin\Debug\AppPrestamo.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\bin\Debug\AppPrestamo.xml
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\obj\Debug\AppPrestamo.vbprojAssemblyReference.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\obj\Debug\AppPrestamo.Form1.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\obj\Debug\AppPrestamo.Resources.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\obj\Debug\AppPrestamo.vbproj.GenerateResource.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\obj\Debug\AppPrestamo.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\obj\Debug\AppPrestamo.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\obj\Debug\AppPrestamo.xml
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\AppPrestamo\AppPrestamo\obj\Debug\AppPrestamo.pdb
